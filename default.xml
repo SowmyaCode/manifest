@@ -2,6 +2,6 @@
 <manifest>
   <remote fetch="https://github.com/SowmyaCode" name="origin"/>
   <default remote="origin" sync-j="4" revision="master"/>
-  <project name="Calculator" path="cal"/>
-  <project name="addition" path="add"/>
+  <project name="calci" path="cal"/>
+  <project name="sum" path="add"/>
  </manifest> 
