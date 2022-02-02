@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/SowmyaCode/" name="origin"/>
-  <default remote="origin" sync-j="8" revision="master"/>
-  <project name="Practical" path="Project" revision="master"/>
-  <project name="Calculator" path="Calci" revision="master"/>
-  
-  <notice>You checked out the iWorkspotSimulator workspace</notice>
- 
+  <default remote="origin" sync-j="4" revision="master"/>
+  <project name="linux_app" path="app"/>
+  <project name="linux_driver" path="driver"/>
  </manifest> 
