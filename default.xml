@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/SowmyaCode/" name="origin"/>
-  <default remote="origin" sync-j="4" revision="master"/>
+  <default remote="origin" sync-j="8" revision="master"/>
   <project name="calci" path="cal"/>
   <project name="sum" path="add"/>
  </manifest> 
